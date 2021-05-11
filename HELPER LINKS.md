@@ -13,5 +13,6 @@
 **[Boas Práticas]**
 - [OOCSS, SMACSS, BEM, DRY CSS: afinal, como escrever CSS?](https://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/)
 - [Falando sobre RSCSS](https://willianjusten.com.br/falando-sobre-rscss/)
+- [SUIT CSS](https://github.com/suitcss/suit)
 
 ***
