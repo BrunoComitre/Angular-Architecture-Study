@@ -5,14 +5,53 @@
 
 Ermac é uma API para estudos de arquitetura escrito em Angular. Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 12.0.0.
 
+Este projeto é um exemplo de arquitetura utilizando novas tecnologias e melhores práticas.
+
+O objetivo é compartilhar conhecimento e usá-lo como referência para novos projetos.
+
 [![Run on Repl.it](https://repl.it/badge/github/erdkse/adminlte-3-angular)](https://repl.it/github/erdkse/adminlte-3-angular)
 
 &nbsp;
 
 ***
+
+## Práticas
+
+- Arquitetura Limpa
+- Código Limpo
+- Princípios SOLID
+- Separação de preocupações
+- DDD (Domain-Driven Design)
+
+***
+
+## Prerequisites
+
+- [Visual Studio](https://visualstudio.microsoft.com)
+- [Node](https://nodejs.org)
+- [Angular CLI](https://cli.angular.io)
+- [Docker](https://www.docker.com/get-started)
+
+***
+
+## Camadas (A DESCREVER)
+
+**Web:** Frontend and API.
+
+**Application:** Flow control.
+
+**Domain:** Business rules and domain logic.
+
+**Model:** Data transfer objects.
+
+**Database:** Data persistence.
+
+***
+
 ## TO-DO
 
 - [ ] Pesquisar cokkiecutter angular, Feature-modules
+- [ ] Descrever camadas em ``` ./app ```
 
 ***
 
