@@ -144,6 +144,7 @@ Para fazer login no site, use:
 - [SUIT CSS](https://github.com/suitcss/suit)
 - [RSCSS e DRY CSS](https://www.google.com/search?q=RSCSS+e+DRY+CSS&sxsrf=ALeKk02YmlzHgLUAJ1qQ06JlMoZeQtakYw%3A1620762187778&ei=S96aYP37LtDl_QbL0q7wAg&oq=RSCSS+e+DRY+CSS&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjELADECc6BwgAEEcQsAM6AggAOgQIABAeOgYIABAKEB46BQgAEMsBOgYIABAWEB46CAgAEBYQChAeOgUIIRCgAToECCEQFVC-uElYmsZJYI7KSWgBcAJ4AYABsASIAdoZkgEJMi05LjAuMS4xmAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz&ved=0ahUKEwi9zd7TscLwAhXQct8KHUupCy4Q4dUDCA4&uact=5)
 - [Angular Service Layers: Redux, RxJs and Ngrx Store - When to Use a Store And Why?](https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/)
+- [AngularJS Material](https://material.angularjs.org/latest/)
 
 **[Utilitários]**
 - [Babel](https://babeljs.io/)
