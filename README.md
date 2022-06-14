@@ -1,6 +1,8 @@
 
 # Angular Architecture Study - (Ermac)
 
+# Pausado, por motivo de estudos apenas em Back-End
+
 &nbsp;
 
 Ermac é uma API para estudos de arquitetura escrito em Angular. Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 12.0.0.
